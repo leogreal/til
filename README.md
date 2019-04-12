@@ -5,3 +5,4 @@
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "This is intended as a quick reference and showcase")
 * [Bootstrap builder](https://bootstrap.build/themes "Bootstrap builder")
 * [JSON to Table](http://json2table.com/ "JSON to Table")
+* [Grupos do Telegram](http://listatelegram.github.io/ "Uma lista de grupos para discussões técnicas")
